@@ -11,7 +11,7 @@
 - **Distribution of Projects:** This shows the total flood control projects in each region, province, and municipality. This also evaluates the percentage of each project type.
 
 The flood control data set from the bettergov.ph can be accessed [here](https://bettergov.ph/flood-control-projects)    
-The Excel used to organise and clean the data for the dashboard can be accessed [here](https://github.com/jasminerendorio/Data_Project/blob/main/Flood%20Control%20Project%20-%20Data.xlsx)    
+The Excel used to organize and clean the data for the dashboard can be accessed [here](https://github.com/jasminerendorio/Data_Project/blob/main/Flood%20Control%20Project%20-%20Data.xlsx)    
 The Power BI dashboard can be accessed [here](https://github.com/jasminerendorio/Data_Project/blob/main/Flood%20Control%20Project.pbix)
 
 #### Summary
