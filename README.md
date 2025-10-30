@@ -54,7 +54,7 @@ High concentration of projects are in Luzon, suggesting less prioritization of p
 - Re-evaluate the qualifications of construction companies in terms of cost efficiency and contract timelines to improve overall outcomes, particularly to further reduce costs and enhance project completion rates.
 - Assess whether the provinces with the highest number of projects are flood-prone areas to ensure better prioritization of project investments.
 
-
+###### Note: Due to missing values that could not be corrected during the data cleaning process, some values may not exactly match the reference data. However, most of the values remain accurate and reliable.
 
 
 
