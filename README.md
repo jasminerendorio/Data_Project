@@ -1,6 +1,6 @@
-#### Overview of the Flood Control Projects in the Philippines
+## Overview of the Flood Control Projects in the Philippines
 
-##### Project Background
+**Project Background**
 
 <p align="justify"> The Philippine Flood Control Dashboard was created to analyze data and provide insights into flood control projects across various regions. This project aims to provide an overview of the financial aspects, contractor performance, and the distribution of various flood control projects across the Philippines. </p>
 
