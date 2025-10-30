@@ -5,7 +5,7 @@
 <p align="justify"> The Philippine Flood Control Dashboard was created to analyze data and provide insights into flood control projects across various regions. This project aims to provide an overview of the financial aspects, contractor performance, and the distribution of various flood control projects across the Philippines. </p>
 
 **Findings will be discussed as follows:**
-- **Financial Allocation:** Estimated total cost of the projects, approved budget, and surplus of the budget.
+- **Financial Overview:** Estimated total cost of the projects, approved budget, and surplus of the budget.
 - **Budget and Cost Trends:** An analysis of the total cost of projects and the approved budget for each funding year.
 - **Contractor Performance:** An analysis of the top 5 performing contractors in terms of projects and cost. This also includes the average of early and delays of project completion.
 - **Distribution of Projects:** This shows the total flood control projects in each region, province, and municipality. This also evaluates the percentage of each project type.
@@ -22,7 +22,7 @@ Below are the overview of the Power BI dashboard
 
 <p align="center"> <img width="1000" height="550" alt="page 2" src="https://github.com/user-attachments/assets/e9a4af88-3a88-4e95-a76d-430f169599f3" /> </p> 
 
-**Financial Allocation**
+**Financial Overview**
 - **Estimated Total Cost:** 547,257,436,984.52  billion pesos **(PHP 547.26 bn)**. 
 - **Approved Budget:** 562,929,075,405.80 billion pesos **(PHP 562.93 bn)**.
 - **Budget Surplus:** 15,671,638,421.28 billion pesos **(PHP 15.67 bn)**.
